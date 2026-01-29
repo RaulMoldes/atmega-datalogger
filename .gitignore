@@ -1,0 +1,4 @@
+*.lck
+*-backups/*
+*-backups/
+.DS_Store
