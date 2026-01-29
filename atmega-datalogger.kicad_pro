@@ -396,7 +396,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "atmega-datalogger",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -408,7 +408,16 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "a10e583c-29fc-4a95-8d07-765b5c895f28",
+      "Root"
+    ],
+    [
+      "f7da4441-bebf-4246-935f-051b40abf5ae",
+      "Connectors"
+    ]
+  ],
   "text_variables": {
     "project_name": "ATMEGA_DATALOGGER"
   }
